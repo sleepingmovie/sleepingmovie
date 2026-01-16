@@ -10,16 +10,15 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=white" height="35">
-    <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/GO-0d0d0d?style=for-the-badge&logoColor=golang&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/RUST-0d0d0d?style=for-the-badge&logo=rust&logoColor=white" height="35">
 </div>
 
 
-<br><br>
+<br>
 
 <p style="font-family: monospace; color: #999;">
-  System Software Engineer oriented on performance and safety.<br>
-  Building backend systems and low-level tools.
+    Contacts:
 </p>
 
 <p>
